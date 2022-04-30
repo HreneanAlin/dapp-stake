@@ -1,0 +1,19 @@
+{
+  "name": "brownie_stake_yield_defi",
+  "version": "1.0.0",
+  "description": "full stack defi",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.0",
+    "@openzeppelin/contracts": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
